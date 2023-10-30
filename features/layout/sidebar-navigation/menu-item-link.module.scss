@@ -30,3 +30,7 @@
   width: space.$s6;
   margin-right: space.$s3;
 }
+
+.rotateRight {
+  transform: rotate(180deg);
+}
